@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SocklientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 483}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SocklientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{249, 0}";
+			sepNavVisRange = "{0, 620}";
+			sepNavWindowFrame = "{{15, 85}, {853, 656}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Socklient */ = {
+		activeExec = 0;
+		executables = (
+			995E2821160B9FCD000201BD /* Socklient */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SocklientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRange = "{0, 753}";
+			sepNavWindowFrame = "{{231, 90}, {853, 656}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SocklientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {860, 3468}}";
+			sepNavSelRange = "{1861, 0}";
+			sepNavVisRange = "{1660, 750}";
+			sepNavWindowFrame = "{{357, 90}, {853, 656}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 995E2821160B9FCD000201BD /* Socklient */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Socklient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Socklient */,
+		);
+		codeSenseManager = 995E282B160B9FD9000201BD /* Code sense */;
+		executables = (
+			995E2821160B9FCD000201BD /* Socklient */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 370110436;
+			PBXWorkspaceStateSaveDate = 370110436;
+		};
+		sourceControlManager = 995E282A160B9FD9000201BD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	995E2821160B9FCD000201BD /* Socklient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Socklient;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	995E282A160B9FD9000201BD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	995E282B160B9FD9000201BD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	99A96731160BC38B00EAF9F5 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 11016}}";
+			sepNavSelRange = "{28869, 0}";
+			sepNavVisRange = "{3975, 1855}";
+			sepNavWindowFrame = "{{15, 85}, {853, 656}}";
+		};
+	};
+	99A96732160BC38B00EAF9F5 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1028, 65535}}";
+			sepNavSelRange = "{66770, 0}";
+			sepNavVisRange = "{66346, 799}";
+			sepNavWindowFrame = "{{15, 85}, {853, 656}}";
+		};
+	};
+}
